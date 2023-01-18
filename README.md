@@ -36,6 +36,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 -HTML
 -CSS
 
@@ -54,7 +55,8 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-  No Live Demo
+
+No Live Demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +172,6 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
@@ -189,10 +190,9 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Lorna Kaboro for granting me the permision to use and review her project
+I would like to thank Queenter Juma for granting me the permision to use and review her project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
